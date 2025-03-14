@@ -73,6 +73,6 @@ svg {
 /* Responsive */
 @media only screen and (max-width: 375px) {
    .box-card {
-      max-width: 400px;
+      max-width: 300px;
    }
 }
